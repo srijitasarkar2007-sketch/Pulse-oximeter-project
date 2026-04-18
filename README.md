@@ -11,6 +11,8 @@ It uses Arduino and ESP32 for processing and displays the output on an OLED scre
 - Breadboard
 - Jumper Wires and single core wires
 
+
+
 ## Working Principle
 The MAX30102 sensor uses light absorption to measure oxygen levels in blood (SpO2) and heart rate. 
 
